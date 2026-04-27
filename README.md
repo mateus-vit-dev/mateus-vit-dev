@@ -9,14 +9,10 @@
 - Desenvolvendo projetos práticos
 
 ##  Tecnologias
-- SQL
-- MySQL
-- SQL Server
-- HTML5
-- CSS3
-- Java
-- Eclipse IDE
-- VScode
+**Banco de Dados:** SQL, MySQL, SQL Server  
+**Linguagens:** Java  
+**Front-end:** HTML5, CSS3  
+**Ferramentas:** Eclipse IDE, VS Code
 
 ##  Objetivo
 Buscando minha primeira oportunidade na área de tecnologia, com foco em backend e banco de dados.
