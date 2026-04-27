@@ -1,16 +1,26 @@
-## Hi there 👋
+#  Olá, eu sou Mateus 👋
 
-<!--
-**mateus-vit-dev/mateus-vit-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante de Desenvolvimento de Sistemas  
+ Focado em backend e banco de dados  
+ Brasil  
 
-Here are some ideas to get you started:
+##  Atualmente
+- Estudando banco de dados (MySQL e SQL Server)
+- Desenvolvendo projetos práticos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tecnologias
+- SQL
+- MySQL
+- SQL Server
+- HTML5
+- CSS3
+- Java
+- Eclipse IDE
+- VScode
+
+##  Objetivo
+Buscando minha primeira oportunidade na área de tecnologia, com foco em backend e banco de dados.
+
+##  Contato
+- LinkedIn: [Mateus Nogueira](https://www.linkedin.com/in/mateus-nogueira-7b23313b6/)
+- Email: mateus.nogueiravi@gmail.com
