@@ -1,4 +1,4 @@
-#  Olá, eu sou Mateus 👋
+#  Olá, eu sou Mateus 
 
  Estudante de Desenvolvimento de Sistemas  
  Focado em backend e banco de dados  
